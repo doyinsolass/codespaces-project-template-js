@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{doyinsolass}.github.io/{FirstRepo}'",
+    "build-gh": "parcel build --public-url 'https://github.com/doyinsolass/FirstRepo'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
