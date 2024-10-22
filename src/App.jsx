@@ -29,7 +29,7 @@ const siteProps = {
   email: "dsotunbo127@gmail.com",
   gitHub: "https://github.com/doyinsolass",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/doyinsola-sotunbo-027118250/",
+  linkedIn: "https://ie.linkedin.com/in/doyinsola-sotunbo-027118250",
   medium: "",
   twitter: "",
   youTube: "",
